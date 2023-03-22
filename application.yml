@@ -1,3 +1,5 @@
 db:
  server:
   name: db-server-name
+  username: placeholder
+  password: pwd_placeholder
