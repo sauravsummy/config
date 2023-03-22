@@ -1,5 +1,6 @@
 db:
- server:
-  name: db-server-name
-  username: placeholder
-  password: pwd_placeholder
+  server:
+    name: db-server-name
+    username: placeholder
+    password: pwd_placeholder
+    url: db-url
